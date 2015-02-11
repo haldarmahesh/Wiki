@@ -10,8 +10,9 @@ If you have any non-ASCII text in your CSS file, for example non-ASCII character
 define meta encoding in HTML file not in CSS file
 
 ##not Recommended
+```html
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
+```
 The reason to go with the short one is that it matches other instances where you might specify a character set in markup.
 
 ##Further references
