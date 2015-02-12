@@ -7,8 +7,11 @@ If you have any non-ASCII text in your CSS file, for example non-ASCII character
 ##Example
 <meta charset="utf-8">
 `"&amp;"` represents &.
+
 `"&#97;"` represents a.
+
 `"&#35;"` represents #.
+
 `"&#169;"` represents copyright symbol.
 
 ##Recommended
